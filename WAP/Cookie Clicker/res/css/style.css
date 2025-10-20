@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(161, 70, 70);
+}
+#pocet{
+    text-align: center;
+    font-size: 30px;
+}
+
+#kauf{
+    display: table;
+    margin: 0 auto;
+    width: 15%;
+}
+
+#nadpis{
+    text-align: center;
+    font-size: 80px;
+}
+
+#kup{
+    text-align: center;
+}
+
+.upgrade{
+    text-align: center;
+    font-size: 30px;
+    color: blue;
+}
+
+.upgrade:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
