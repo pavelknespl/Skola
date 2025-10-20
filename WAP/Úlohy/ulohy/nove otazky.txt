@@ -1,0 +1,19 @@
+Úloha 1
+1. Vytvoř vstup pro zadání barvy a nadpis a tlačítko.
+2. Následně tou barvou obarvíte text.
+
+Úloha 2
+1. Vytvoř na stránce input pro jméno a pozdrav se jménem a tlačítko.
+2. Po kliknutí na tlačítko nastavíš jméno v pozdravu na zadané jméno.
+
+Úloha 3
+1. Vytvoř dva vstupy pro čísla. Také vytvoř tlačítko na sčítání odčítání násobení dělení každé zvlášť
+2. Po kliknutí na tlačítko se tato funkce provede a výsledek se vypíše.
+
+Úloha 4.
+Přidej dva vstupy jedne na barvu a jeden na velikost. Také přidej tlačítko.
+Po kliknutí na tlačítko se vytvoří div s těmito údaji.
+
+Úloha 5.
+Udělej vstup na číslo, tlačítko a div.
+Pokud zadané číslo bude sudé div se obarví na červeno, pokud liché div se obarví na zeleno.
